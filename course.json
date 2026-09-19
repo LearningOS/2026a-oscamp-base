@@ -1,9 +1,9 @@
 {
-  "name": "2026f-oscamp-base",
+  "name": "2026a-oscamp-base",
   "title": "基础阶段 — Rust 进阶 & OS 入门",
   "courseId": 2074,
   "totalScore": 100,
-  "secret": "OSCAMP_2026F_BASE_TOKEN",
+  "secret": "OSCAMP_2026A_BASE_TOKEN",
   "source": "LearningOS/2026s-oscamp-base-2026s-oscamp-base-exercise-oscamp-base-experiment",
   "tests": [
     {
@@ -128,5 +128,5 @@
     }
   ],
   "sourceCommit": "1196ac363c2cba1dcd7f33cf584b5d746f396ffd",
-  "organization": "2026f-autotest"
+  "organization": "LearningOS"
 }

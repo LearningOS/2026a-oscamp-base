@@ -13,7 +13,7 @@ from github_api import api, redact
 from provision import ORGANIZATION, provision
 
 COURSE_ID = "2074"
-COURSE = {"title": "基础阶段 - Rust 进阶 & OS 入门", "template": "2026f-oscamp-base", "secret": "OSCAMP_2026F_BASE_TOKEN", "branches": ["main"]}
+COURSE = {"title": "基础阶段 - Rust 进阶 & OS 入门", "template": "2026a-oscamp-base", "secret": "OSCAMP_2026A_BASE_TOKEN", "branches": ["main"]}
 
 
 def read_students(arguments, path):
